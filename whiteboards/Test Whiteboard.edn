@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1774728643883
+{:block/created-at 1774729612172
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,13 +22,13 @@
 :id "07244290-2ada-11f1-8ba0-a79784b74103"
 :fontWeight 400
 :noFill false
-:point [368 248]
+:point [328 296]
 :fontSize 20
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:nonce 1774725139448
+:nonce 1774725139486
 :italic false}}
-:block/updated-at 1774728643883} 
-{:block/created-at 1774728643883
+:block/updated-at 1774729612172} 
+{:block/created-at 1774729566166
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -44,7 +44,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.57143020629883]
+:size [400 40]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -53,8 +53,8 @@
 :point [1032 168]
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :collapsedHeight 0
-:nonce 1774725286884}}
-:block/updated-at 1774728643883} 
+:nonce 1774725286886}}
+:block/updated-at 1774729566166} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -64,7 +64,7 @@
 :block/properties 
 {:public true}
 :block/uuid #uuid "a70f480a-a6b5-4576-8462-3bba7ad24f1b"} 
-{:block/created-at 1774728648274
+{:block/created-at 1774729607487
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -81,25 +81,25 @@
 :id "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
 :fontWeight 400
 :noFill true
-:point [936 212.57]
+:point [912.61 212.57]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 106.82]
-:bindingId "35d4f3c1-2ae2-11f1-8ba0-a79784b74103"}
+:point [0 92.43]
+:bindingId "71506401-2ae4-11f1-bd2e-0fc84a4b98df"}
 :end 
 {:id "end"
 :canBind true
-:point [187.97 0]
+:point [211.36 0]
 :bindingId "e6f5dbc1-2adc-11f1-8ba0-a79784b74103"}}
 :decorations 
 {:end "arrow"}
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:nonce 1774726368209
+:nonce 1774726368248
 :italic false}}
-:block/updated-at 1774728648274} 
+:block/updated-at 1774729607487} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -109,25 +109,26 @@
 :block/properties 
 {:public true}
 :block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"} 
-{:block/created-at 1774728646040
+{:block/created-at 1774729604522
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:index 3
 :scale [1 1]
+:refs ["69c82848-39e8-492d-a19d-56cfdc5d7f10"]
 :type "image"
-:assetId "329dbd90-2ae2-11f1-8ba0-a79784b74103"
-:size [271 480]
+:assetId "69c4a0c0-2ae4-11f1-bd2e-0fc84a4b98df"
+:size [263.61030437225077 208.1259313652638]
 :opacity 1
-:id "329ea7f0-2ae2-11f1-8ba0-a79784b74103"
+:id "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df"
 :isAspectRatioLocked true
 :isLocked false
 :objectFit "fill"
-:point [664 160]
+:point [648 216]
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:nonce 1774728642651
+:nonce 1774729594215
 :clipping 0}}
-:block/updated-at 1774728646040})
+:block/updated-at 1774729604522})
 :pages (
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :block/properties 
@@ -136,22 +137,22 @@
 {:id "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :name "test whiteboard"
 :bindings 
-{:35d4f3c1-2ae2-11f1-8ba0-a79784b74103 
-{:id "35d4f3c1-2ae2-11f1-8ba0-a79784b74103"
+{:71506401-2ae4-11f1-bd2e-0fc84a4b98df 
+{:id "71506401-2ae4-11f1-bd2e-0fc84a4b98df"
 :type "line"
 :fromId "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
-:toId "329ea7f0-2ae2-11f1-8ba0-a79784b74103"
+:toId "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df"
 :handleId "start"
-:point [0.45 0.51]
+:point [0.48 0.71]
 :distance 4}}
 :nonce 0
 :assets [
-{:id "329dbd90-2ae2-11f1-8ba0-a79784b74103"
+{:id "69c4a0c0-2ae4-11f1-bd2e-0fc84a4b98df"
 :type "image"
-:src "../assets/272964709_627224925164868_129510902096224009_n_1774725068654_0_1774726339582_0_1774728642531_0.jpg"
-:size [542 960]}]
-:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103" "329ea7f0-2ae2-11f1-8ba0-a79784b74103")}}
-:block/updated-at 1774728648276
+:src "../assets/black-ioa-transparent_1774729594057_0.png"
+:size [1107 874]}]
+:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103" "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df")}}
+:block/updated-at 1774729612172
 :block/created-at 1774725048682
 :block/type "whiteboard"
 :block/name "test whiteboard"
