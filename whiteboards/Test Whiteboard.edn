@@ -58,7 +58,7 @@
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+{:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"}
 :block/parent 
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
 :block/properties 
@@ -119,39 +119,21 @@
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :nonce 1774726368197
 :italic false}}
-:block/updated-at 1774726371853})
+:block/updated-at 1774726371853} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+:block/parent 
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"})
 :pages (
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :block/properties 
-{:ls-type :whiteboard-page
-:logseq.tldraw.page 
-{:id "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:name "test whiteboard"
-:bindings 
-{:e6f5dbc0-2adc-11f1-8ba0-a79784b74103 
-{:id "e6f5dbc0-2adc-11f1-8ba0-a79784b74103"
-:type "line"
-:fromId "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
-:toId "d5f4d4c0-2adc-11f1-8ba0-a79784b74103"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:e6f5dbc1-2adc-11f1-8ba0-a79784b74103 
-{:id "e6f5dbc1-2adc-11f1-8ba0-a79784b74103"
-:type "line"
-:fromId "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
-:toId "6267e850-2ada-11f1-8ba0-a79784b74103"
-:handleId "end"
-:point [0.42 0.12]
-:distance 4}}
-:nonce 0
-:assets [
-{:id "d5f32710-2adc-11f1-8ba0-a79784b74103"
-:type "image"
-:src "../assets/272964709_627224925164868_129510902096224009_n_1774725068654_0_1774726339582_0.jpg"
-:size [542 960]}]
-:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "d5f4d4c0-2adc-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103")}}
-:block/updated-at 1774726371852
+{:public true}
+:block/updated-at 1774726620435
 :block/created-at 1774725048682
 :block/type "whiteboard"
 :block/name "test whiteboard"
