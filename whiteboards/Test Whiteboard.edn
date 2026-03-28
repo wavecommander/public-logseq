@@ -1,0 +1,131 @@
+{:blocks (
+{:block/created-at 1774725243269
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:refs ["A Block"]
+:type "image"
+:assetId "e06b6340-2ad9-11f1-8ba0-a79784b74103"
+:size [271 480]
+:opacity 1
+:id "e06c4da0-2ad9-11f1-8ba0-a79784b74103"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [672 128]
+:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:nonce 1774725068945
+:clipping 0}}
+:block/updated-at 1774725243269} 
+{:block/created-at 1774725168891
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [216 176]
+:strokeType "dashed"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "07244290-2ada-11f1-8ba0-a79784b74103"
+:fontWeight 400
+:noFill false
+:point [368 248]
+:fontSize 20
+:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:nonce 1774725139447
+:italic false}}
+:block/updated-at 1774725168891} 
+{:block/created-at 1774725299242
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "69c82848-39e8-492d-a19d-56cfdc5d7f10"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.57143020629883]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6267e850-2ada-11f1-8ba0-a79784b74103"
+:noFill false
+:point [1032 168]
+:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:collapsedHeight 0
+:nonce 1774725286883}}
+:block/updated-at 1774725299242} 
+{:block/created-at 1774725299242
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "67e760d2-2ada-11f1-8ba0-a79784b74103"
+:fontWeight 400
+:noFill true
+:point [944 212.57]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 65.43]
+:bindingId "67e760d0-2ada-11f1-8ba0-a79784b74103"}
+:end 
+{:id "end"
+:canBind true
+:point [99.24 0]
+:bindingId "67e760d1-2ada-11f1-8ba0-a79784b74103"}}
+:decorations 
+{:end "arrow"}
+:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:nonce 1774725296032
+:italic false}}
+:block/updated-at 1774725299242} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+:block/parent 
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "a70f480a-a6b5-4576-8462-3bba7ad24f1b"})
+:pages (
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:block/properties 
+{:public true}
+:block/updated-at 1774725308827
+:block/created-at 1774725048682
+:block/type "whiteboard"
+:block/name "test whiteboard"
+:block/original-name "Test Whiteboard"})}
