@@ -132,27 +132,8 @@
 :pages (
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :block/properties 
-{:ls-type :whiteboard-page
-:logseq.tldraw.page 
-{:id "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:name "test whiteboard"
-:bindings 
-{:71506401-2ae4-11f1-bd2e-0fc84a4b98df 
-{:id "71506401-2ae4-11f1-bd2e-0fc84a4b98df"
-:type "line"
-:fromId "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
-:toId "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df"
-:handleId "start"
-:point [0.48 0.71]
-:distance 4}}
-:nonce 0
-:assets [
-{:id "69c4a0c0-2ae4-11f1-bd2e-0fc84a4b98df"
-:type "image"
-:src "../assets/black-ioa-transparent_1774729594057_0.png"
-:size [1107 874]}]
-:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103" "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df")}}
-:block/updated-at 1774729612172
+{:public true}
+:block/updated-at 1774730210740
 :block/created-at 1774725048682
 :block/type "whiteboard"
 :block/name "test whiteboard"
