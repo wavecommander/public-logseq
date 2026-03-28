@@ -421,4 +421,5 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :graph/settings {:journal? true
- :builtin-pages? true}}
+ :builtin-pages? true}
+ :editor/preferred-pasting-file? true}
