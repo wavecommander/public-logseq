@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1774729612172
+{:block/created-at 1774730491328
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -27,8 +27,8 @@
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :nonce 1774725139486
 :italic false}}
-:block/updated-at 1774729612172} 
-{:block/created-at 1774729566166
+:block/updated-at 1774730491328} 
+{:block/created-at 1774730491328
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -54,7 +54,7 @@
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :collapsedHeight 0
 :nonce 1774725286886}}
-:block/updated-at 1774729566166} 
+:block/updated-at 1774730491328} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -64,7 +64,7 @@
 :block/properties 
 {:public true}
 :block/uuid #uuid "a70f480a-a6b5-4576-8462-3bba7ad24f1b"} 
-{:block/created-at 1774729607487
+{:block/created-at 1774730491329
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -99,7 +99,7 @@
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :nonce 1774726368248
 :italic false}}
-:block/updated-at 1774729607487} 
+:block/updated-at 1774730491329} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -108,32 +108,20 @@
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
 :block/properties 
 {:public true}
-:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"} 
-{:block/created-at 1774729604522
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:index 3
-:scale [1 1]
-:refs ["69c82848-39e8-492d-a19d-56cfdc5d7f10"]
-:type "image"
-:assetId "69c4a0c0-2ae4-11f1-bd2e-0fc84a4b98df"
-:size [263.61030437225077 208.1259313652638]
-:opacity 1
-:id "69c58b20-2ae4-11f1-bd2e-0fc84a4b98df"
-:isAspectRatioLocked true
-:isLocked false
-:objectFit "fill"
-:point [648 216]
-:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:nonce 1774729594215
-:clipping 0}}
-:block/updated-at 1774729604522})
+:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"})
 :pages (
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :block/properties 
-{:public true}
-:block/updated-at 1774730210740
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:name "test whiteboard"
+:bindings 
+{}
+:nonce 0
+:assets []
+:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103")}}
+:block/updated-at 1774730517974
 :block/created-at 1774725048682
 :block/type "whiteboard"
 :block/name "test whiteboard"
