@@ -64,7 +64,7 @@
 :block/properties 
 {:public true}
 :block/uuid #uuid "a70f480a-a6b5-4576-8462-3bba7ad24f1b"} 
-{:block/created-at 1774730491329
+{:block/created-at 1774730583080
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -81,25 +81,25 @@
 :id "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
 :fontWeight 400
 :noFill true
-:point [912.61 212.57]
+:point [1001 212.57]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 92.43]
-:bindingId "71506401-2ae4-11f1-bd2e-0fc84a4b98df"}
+:point [0 40.58]
+:bindingId "995fe7c1-2ae6-11f1-bd2e-0fc84a4b98df"}
 :end 
 {:id "end"
 :canBind true
-:point [211.36 0]
+:point [122.97 0]
 :bindingId "e6f5dbc1-2adc-11f1-8ba0-a79784b74103"}}
 :decorations 
 {:end "arrow"}
 :parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
-:nonce 1774726368248
+:nonce 1774726368363
 :italic false}}
-:block/updated-at 1774730491329} 
+:block/updated-at 1774730583080} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -108,7 +108,41 @@
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
 :block/properties 
 {:public true}
-:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"})
+:block/uuid #uuid "d90c58ed-5f2a-40be-873f-d9ee24b59bbc"} 
+{:block/content "((69c83ccc-443a-4c9e-a9cb-1f1b977964a5))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "a70f480a-a6b5-4576-8462-3bba7ad24f1b"}
+:block/parent 
+{:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"}
+:block/uuid #uuid "69c83d1b-7687-41cb-8e55-32c84b6b5d02"} 
+{:block/created-at 1774730583080
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "69c83d1b-7687-41cb-8e55-32c84b6b5d02"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 400.5714652923771]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "91b4b5a0-2ae6-11f1-bd2e-0fc84a4b98df"
+:noFill false
+:point [600 160]
+:parentId "69c827b8-c743-4b0b-b88d-dfc816dc269d"
+:collapsedHeight 0
+:nonce 1774730520441}}
+:block/updated-at 1774730583080})
 :pages (
 {:block/uuid #uuid "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :block/properties 
@@ -117,12 +151,19 @@
 {:id "69c827b8-c743-4b0b-b88d-dfc816dc269d"
 :name "test whiteboard"
 :bindings 
-{}
+{:995fe7c1-2ae6-11f1-bd2e-0fc84a4b98df 
+{:id "995fe7c1-2ae6-11f1-bd2e-0fc84a4b98df"
+:type "line"
+:fromId "e6f5dbc2-2adc-11f1-8ba0-a79784b74103"
+:toId "91b4b5a0-2ae6-11f1-bd2e-0fc84a4b98df"
+:handleId "start"
+:point [0.47 0.41]
+:distance 4}}
 :nonce 0
 :assets []
-:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103")}}
-:block/updated-at 1774730517974
+:shapes-index ("07244290-2ada-11f1-8ba0-a79784b74103" "6267e850-2ada-11f1-8ba0-a79784b74103" "e6f5dbc2-2adc-11f1-8ba0-a79784b74103" "91b4b5a0-2ae6-11f1-bd2e-0fc84a4b98df")}}
+:block/updated-at 1774730583080
 :block/created-at 1774725048682
 :block/type "whiteboard"
 :block/name "test whiteboard"
-:block/original-name "Test Whiteboard"})}
+:block/original-name "test whiteboard"})}
